@@ -1,4 +1,9 @@
-<img width="738" height="1600" alt="WhatsApp Image 2026-11-06 at 14 07 45 (2)" src="https://github.com/user-attachments/assets/0870554f-6445-48ce-aecf-d12b5db70508" />
+<img width="738" height="1600" alt="WhatsApp Image 2026-11-06 at 14 07 45" src="https://github.com/user-attachments/assets/827c3bf5-25f1-472c-bed8-01a22d128ddb" />
+
+<img width="738" height="1600" alt="WhatsApp Image 2026-11-06 at 14 07 45 (1)" src="https://github.com/user-attachments/assets/6c377f78-d3b4-47b1-b1de-e7712daeb12f" />
+
+<img width="738" height="1600" alt="WhatsApp Image 2026-11-06 at 14 07 45 (2)" src="https://github.com/user-attachments/assets/3d728296-21d6-4658-8130-e118da92630d" />
+
 
 # 🐝 Academia FitZone
 
@@ -16,4 +21,8 @@ A identidade visual utiliza as cores amarelo, preto e branco, transmitindo energ
 - Capacitor 8
 - `@capacitor/local-notifications`
 - GitHub Actions (site e APK)
+
+
+
+https://github.com/user-attachments/assets/c1f58f7d-4b87-4619-8d07-cd85263ac416
 
