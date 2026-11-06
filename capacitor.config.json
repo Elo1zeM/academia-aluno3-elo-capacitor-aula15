@@ -1,0 +1,6 @@
+{
+  "appId": "br.com.academia.fitzone",
+  "appName": "Academia FitZone",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
