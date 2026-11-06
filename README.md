@@ -1,3 +1,5 @@
+<img width="738" height="1600" alt="WhatsApp Image 2026-11-06 at 14 07 45 (2)" src="https://github.com/user-attachments/assets/0870554f-6445-48ce-aecf-d12b5db70508" />
+
 # 🐝 Academia FitZone
 
 Aplicação responsiva de academia, desenvolvida com React, Vite e Capacitor. O projeto funciona como site no computador/celular e como aplicativo Android com notificações locais.
